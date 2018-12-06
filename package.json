@@ -1,0 +1,25 @@
+{
+  "name": "react-jest-demo",
+  "version": "1.0.0",
+  "description": "App created during Udemy course",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/cleicar/react-jest-demo.git"
+  },
+  "author": "Cleiviane Costa",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/cleicar/react-jest-demo/issues"
+  },
+  "homepage": "https://github.com/cleicar/react-jest-demo#readme",
+  "devDependencies": {
+    "@babel/cli": "^7.1.0",
+    "@babel/core": "^7.1.0",
+    "@babel/preset-env": "^7.1.0",
+    "@babel/preset-react": "^7.0.0"
+  }
+}
